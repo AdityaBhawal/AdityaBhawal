@@ -37,7 +37,7 @@ My name is Aditya Bhawal (he/his) and this is my GitHub! Many of my projects wil
 
 🔗 Links and Contact Info:
 - [Linkedin](https://www.linkedin.com/in/adityabhawal/)
-- [Personal Website (Under Construction!](www.adityabhawal.com)
+- [Personal Website (Under Construction!)](www.adityabhawal.com)
 - [Github (recursion!)](https://github.com/AdityaBhawal)
 - [Email me!](mailto:adbhawal@berkeley.edu)
 
