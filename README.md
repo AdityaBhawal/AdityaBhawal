@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Aditya Bhawal (he/his) and this is my GitHub! Many of my projects will be posted here! (but not all of them as many of my projects are with private companies or organizations)
+My name is Aditya Bhawal (he/his) and this is my GitHub! Many of my projects will be posted here! (Contact me if you would like to learn more about other, more private projects!)
 
 🔭 I am currently a Software Security Intern for Itron where I help make our digital world a safer place! 
 
